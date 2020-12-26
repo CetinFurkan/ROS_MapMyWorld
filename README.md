@@ -1,16 +1,17 @@
 
 ![alt text](SS_Mapping.png)
 # Map My World
-This project is the fourth project that comes in **Localization** lesson in Robotics Software Engineer Nanodegree Program. This project is built upon the third project which has a 3D world and robot. In this project, the robot can be controlled by keyboard and RTAB-MAP system is used for contructing map.
+This project is the fourth project that comes in **Mapping and SLAM** lesson in Robotics Software Engineer Nanodegree Program. This project is built upon the third project which has a 3D world and robot. In this project, the robot can be controlled by keyboard and RTAB-MAP system is used for contructing map.
 
 ### Directory Structure
 ```
-    .WhereAmI                          
+    .MapMyWorld                          
     ├── my_robot                       # main project file that includes launch files  
     ├── teleop_twist_keyboard          # for controlling by keyboard   
     ├── CMakeLists.txt                   
     └── SS_Mapping.png                 # screenshot from the project
 ```
+Database file: https://drive.google.com/file/d/1OchrcyJsIbJjE8E3a2nMBgr5Gx-xvNIB/view?usp=sharing
 
 ### Steps to launch the simulation
 
